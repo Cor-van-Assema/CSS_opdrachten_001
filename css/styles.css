@@ -1,0 +1,67 @@
+body { 
+    color: red;
+}
+
+header {
+    color:blue;
+    text-align: center;
+    font-family: Haettenschweiler, Impact, 'Arial Narrow Bold', sans-serif;
+    font-size: 40px;
+    position:relative;
+}
+
+footer {
+    padding-top:10px;
+}
+
+section {
+    padding-bottom:10px;
+    margin: 10px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif
+}
+
+aside {
+    padding-bottom:10px;
+    margin: 10px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif
+}
+
+.section-border {
+    border: 5px solid blue;
+    color: blueviolet;
+    text-align: center;
+}
+
+.centreren {
+    border: 1px solid #000;
+    color: blueviolet;
+    text-align: center;
+    margin: 10px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif
+}
+
+.regenboog {
+    color:green;
+    list-style-image: url(../media/regenboog.png);
+}
+
+.blauwelucht {
+    color:blue;
+    list-style-image: url(../media/blauwelucht.png);
+}
+
+.mist {
+    color:grey;
+    list-style-image: url(../media/mist.png);
+}
+
+#green-background {
+    background-color: green;
+    padding-top:10px;
+    margin: 10px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif
+}
+
+.clr {
+    clear:both;
+}
